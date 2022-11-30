@@ -5,7 +5,7 @@ EXERCISE 1
 Given the following dictionary:
 '''
 inventory = {
-    'gold' : 500,
+    'gold' : 600,
     'pouch' : ['flint', 'twine', 'gemstone'],
     'backpack' : ['xylophone','dagger', 'bedroll','bread loaf']
 }
